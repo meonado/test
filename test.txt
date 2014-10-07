@@ -1,1 +1,3 @@
 skriver väl lite.....
+10 PRINT "Hello"
+20 GOTO 10
